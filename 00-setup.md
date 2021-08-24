@@ -78,7 +78,7 @@ Python の pyenv、Ruby の rbenv など、様々な言語で同様の仕組み�
   - [Volta](https://volta.sh/)
 
 ここでは、nvm を使用して Node.js をインストールします。
-これは、後述する [Create React App の公式ドキュメント](https://create-react-app.dev/docs/getting-started#creating-an-app) で紹介されているなど、広く使われているからです。
+これは、[WSL 2 上で Node\.jis を設定する \| Microsoft Docs](https://docs.microsoft.com/ja-jp/windows/dev-environment/javascript/nodejs-on-wsl) や、後述する [Create React App の公式ドキュメント](https://create-react-app.dev/docs/getting-started#creating-an-app) で紹介されているなど、広く使われているからです。
 
 [nvm の Install & Update Script](https://github.com/nvm-sh/nvm#install--update-script) を実行し、`nvm install node --lts` を実行することで、Node.js の最新 LTS 版がインストールされます。
 
