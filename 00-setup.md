@@ -133,7 +133,7 @@ npm install --global yarn
 普段プログラムを置いているディレクトリ (筆者は `~/Project` です) で、以下のコマンドを実行してください。
 
 ```sh
-yarn create react-app my-app
+yarn create react-app my-app --template typescript
 ```
 
 コマンドが成功すると、`my-app` というフォルダができています。
