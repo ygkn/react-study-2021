@@ -134,7 +134,8 @@ npm install --global yarn
 
 ---
 
-この項目では、[Create React App](https://create-react-app.dev/) という React を動かすために必要なファイルや依存ソフトウェアといった環境を準備してくれるというものです。
+この項目では、[Create React App](https://create-react-app.dev/) を使用します。
+これは、 React を動かすために必要なファイルや依存ソフトウェアといった環境を準備してくれるものです。
 
 普段プログラムを置いているディレクトリ (筆者は `~/Project` です) で、以下のコマンドを実行してください。
 
