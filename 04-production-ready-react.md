@@ -5,7 +5,15 @@
 
 ## Next.js
 
-### SSR? SSG? Jamstack? ISR?
+Next.js は [公式サイト](https://nextjs.org/) に 「 The React Framework for Production 」とあるように、
+実用的な Web アプリケーションを制作するための React フレームワークです。
+
+機能は Create React App のような React を使用したプログラムをビルドすることが主ですが、
+開発時と本番運用時の様々な最適化や、
+ファイル名がそのまま URL のパス名になる File System Routing といった便利な機能が特別な設定をせずに使用できるといった利点があります。
+公式ドキュメントや [examples](https://github.com/vercel/next.js/tree/canary/examples) が充実していることも Next.js の嬉しい点です。
+
+これらの点から、React で Web アプリや Web サイトを制作するならまず Next.js の利用を検討してみても良いと考えています。
 
 ## Linter
 
