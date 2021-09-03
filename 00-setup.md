@@ -21,6 +21,13 @@
 
 ### VS Code
 
+---
+
+**Note:** Windows の人は WSL ではなく Windows に VS Code をインストールして、[Remote - WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) 拡張機能をインストールしてください。
+詳しくは [WSL で VS Code の使用を開始する \| Microsoft Docs](https://docs.microsoft.com/ja-jp/windows/wsl/tutorials/wsl-vscode) をご覧ください。
+
+---
+
 #### 起動方法
 
 各 OS のアプリ一覧から VS Code を探して起動します。
