@@ -8,7 +8,7 @@
   - 拡張機能
     - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
     - [Prettier \- Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-- Node.js v12 以上
+- Node.js
 - yarn
 
 ## インストール
