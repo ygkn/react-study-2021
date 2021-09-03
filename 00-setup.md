@@ -24,7 +24,7 @@
 ---
 
 **Note:** Windows の人は WSL ではなく Windows に VS Code をインストールして、[Remote - WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) 拡張機能をインストールしてください。
-詳しくは [WSL で VS Code の使用を開始する \| Microsoft Docs](https://docs.microsoft.com/ja-jp/windows/wsl/tutorials/wsl-vscode) をご覧ください。
+詳しくは [WSL で VS Code の使用を開始する \| Microsoft Docs](https://docs.microsoft.com/ja-jp/windows/wsl/tutorials/wsl-vscode) や [【WSL / WSL2】VSCode×WSL で Windows 上に Linux 開発環境を構築 \- Qiita](https://qiita.com/_masa_u/items/d3c1fa7898b0783bc3ed) をご覧ください。
 
 ---
 
