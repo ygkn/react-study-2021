@@ -28,3 +28,4 @@
 - Discord
 - Excalidraw
 - Nintendo eShop
+- [立命館ダジャレサークル](https://rits-dajare.github.io/)
