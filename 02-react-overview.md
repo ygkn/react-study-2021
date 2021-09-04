@@ -16,3 +16,15 @@
   - CLI  アプリが作れる
 - [Adapt](https://adaptjs.org/)
   - アプリが動くインフラを作成、デプロイできる
+
+## どこで使われてるか
+
+
+- Facebook
+- Instagram
+- Messenger
+- Twitter
+- Slack
+- Discord
+- Excalidraw
+- Nintendo eShop
